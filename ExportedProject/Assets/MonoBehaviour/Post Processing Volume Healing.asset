@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: Post Processing Volume Healing
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 806fbba16b46d7f4cb92914d560ee062, type: 2}
+  - {fileID: 11400000, guid: 1717eb876a1e5e143a2aff89cfe92bb6, type: 2}
+  - {fileID: 11400000, guid: 44e80ec9243e7b440b833323fa8cd5e1, type: 2}
+  - {fileID: 11400000, guid: 7dabd829454b5b04eabc595bdcbd0671, type: 2}
+  - {fileID: 11400000, guid: 3b8912cd06829854b9c7d8cc7862443c, type: 2}
+  - {fileID: 11400000, guid: 9d4e15a5e9102c34e9a7239cf9420c1c, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: Post Processing Volume Profile
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: d13cb27c92220b14d9a8f5c47f466073, type: 2}
+  - {fileID: 11400000, guid: 97c4082c96a12c54f903e1c2e81de0b1, type: 2}
+  - {fileID: 11400000, guid: 8c511f38d9ff21b4996da9d887836e45, type: 2}
+  - {fileID: 11400000, guid: c0a899a0843593949a811ba019a7a68c, type: 2}
+  - {fileID: 11400000, guid: be7af2e291fe74d4ea96f63bd75c2d20, type: 2}
+  - {fileID: 11400000, guid: 5ad56a0517417b24eb375d0d216223af, type: 2}
+  - {fileID: 11400000, guid: 240cde50505ca0941b97525f54ce535b, type: 2}

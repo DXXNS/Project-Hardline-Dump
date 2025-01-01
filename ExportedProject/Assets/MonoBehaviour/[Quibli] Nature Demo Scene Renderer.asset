@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1575395517, guid: c88ab7b37c4f350242674d2efd621c19, type: 3}
+  m_Name: '[Quibli] Nature Demo Scene Renderer'
+  m_EditorClassIdentifier:
+  debugShaders:
+    debugReplacementPS: {fileID: 4800000, guid: 884a8199d41d35449ab848bbcbca441a, type: 3}
+    hdrDebugViewPS: {fileID: 4800000, guid: 4ee4b59f05a486946bbbe8b5b1d041cb, type: 3}
+  m_RendererFeatures:
+  - {fileID: 11400000, guid: 597472341813c8844927fe4522c7c360, type: 2}
+  - {fileID: 11400000, guid: aa778ea4e080f6247a7df28b3ef2afd9, type: 2}
+  m_RendererFeatureMap: b131503dd833e97fffc92ddfd3e9d20f
+  m_UseNativeRenderPass: 0
+  postProcessData: {fileID: 11400000, guid: bc0086401141ea244bb3086918a41694, type: 2}
+  xrSystemData: {fileID: 11400000, guid: 68061dd3c41cea440a948d0aef6aa9db, type: 2}
+  shaders:
+    blitPS: {fileID: 4800000, guid: 2bbaae04e3048ae4e9240644c6d2e98c, type: 3}
+    copyDepthPS: {fileID: 4800000, guid: b870a765a07af1044b5363be32175b05, type: 3}
+    screenSpaceShadowPS: {fileID: 4800000, guid: ecc7b4d6adde70544816f86c449fe956, type: 3}
+    samplingPS: {fileID: 4800000, guid: 5f49e60b4ecbcdd4995f3e2a637e7124, type: 3}
+    stencilDeferredPS: {fileID: 4800000, guid: 0a36d47d93a91194b9d9607efa49bd83, type: 3}
+    fallbackErrorPS: {fileID: 4800000, guid: 5728daae46d3e804f8f09bb1647fe187, type: 3}
+    fallbackLoadingPS: {fileID: 4800000, guid: 98e77fb57bb09884aa57f9cb00cdbd2d, type: 3}
+    materialErrorPS: {fileID: 4800000, guid: 80c995bdf7434f64e8b1aeb1396c6300, type: 3}
+    coreBlitPS: {fileID: 4800000, guid: 780d91ec16fe9fa4da3dffb1133835fe, type: 3}
+    coreBlitColorAndDepthPS: {fileID: 4800000, guid: 5c442b535f38aac4bbfc7120dc2bfce7, type: 3}
+    blitHDROverlay: {fileID: 4800000, guid: 1a98e0274897f3240851cba50ac4296d, type: 3}
+    cameraMotionVector: {fileID: 4800000, guid: deac5ca6eabdea94b8fab5c1c9e57bc0, type: 3}
+    objectMotionVector: {fileID: 4800000, guid: a6ac1ed196a2dcf418fac2131fbc3915, type: 3}
+    dataDrivenLensFlare: {fileID: 4800000, guid: e6bc6d80a7529414bb0d6c16a9661d81, type: 3}
+  m_AssetVersion: 2
+  m_OpaqueLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_TransparentLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_DefaultStencilState:
+    overrideStencilState: 0
+    stencilReference: 0
+    stencilCompareFunction: 8
+    passOperation: 2
+    failOperation: 0
+    zFailOperation: 0
+  m_ShadowTransparentReceive: 1
+  m_RenderingMode: 0
+  m_DepthPrimingMode: 0
+  m_CopyDepthMode: 0
+  m_AccurateGbufferNormals: 0
+  m_IntermediateTextureMode: 1

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1479065256656749
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4676966821405040}
+  - component: {fileID: 114406483904827556}
+  - component: {fileID: 65234984538726124}
+  m_Layer: 0
+  m_Name: ItemPickup_Unarmed
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4676966821405040
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1479065256656749}
+  m_LocalRotation: {x: -4.0059048E-13, y: 3.2047238E-12, z: 6.5632735E-09, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: -4.5904284E-11, y: -3.672343E-10, z: -7.5209573E-07}
+--- !u!114 &114406483904827556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1479065256656749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 845b666030846b9d8a20597f30765256, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  itemName: Unarmed
+  displayName:
+  itemIcon: {fileID: 2800000, guid: f353d0f5011a84846b90b6e8234eb430, type: 3}
+  sightNumber: 0
+  currentAmmo: 0
+  sightAttachment: 0
+  barrelAttachment: 0
+  gripAttachment: 0
+  sightParent: {fileID: 0}
+  barrelParent: {fileID: 0}
+  gripParent: {fileID: 0}
+--- !u!65 &65234984538726124
+BoxCollider:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1479065256656749}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  m_Size: {x: -0.11, y: 0.49, z: 0.58}
+  m_Center: {x: 0, y: 0.24, z: 0.09}

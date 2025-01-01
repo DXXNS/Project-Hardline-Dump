@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: Main Menu Blurred
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 380fa62af5f90ee4390c2275bf9200c0, type: 2}
+  - {fileID: 11400000, guid: 3438eda984e5e51499e74ea8a9afd810, type: 2}
+  - {fileID: 11400000, guid: 6993d783b453bcc499b174eea4f81638, type: 2}
+  - {fileID: 11400000, guid: a8d3f724acb444c43bd225f021ef22ac, type: 2}
+  - {fileID: 11400000, guid: 82d19f0624a800c429fd23f501b210e5, type: 2}
+  - {fileID: 11400000, guid: 13386543887a2ef429c20bdfbd15afb7, type: 2}
+  - {fileID: 11400000, guid: 4c88bc25b1a375d428b2bc6820a9ea21, type: 2}
+  - {fileID: 11400000, guid: c1bb1c740ec0e964c9aa3196ab0b6527, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: Thermal Scope
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 5a4acf6008f36cd4c979d3c1714fe7be, type: 2}
+  - {fileID: 11400000, guid: d77741fa57339b349a610b40efc54e39, type: 2}
+  - {fileID: 11400000, guid: a7792515ddd780e47976472ea8047c7d, type: 2}
+  - {fileID: 11400000, guid: 7c11f2b503936d2458a6bbf07c747ceb, type: 2}
+  - {fileID: 11400000, guid: 65951155a650b9b48b0d28290e628071, type: 2}
+  - {fileID: 11400000, guid: c6d88b6f1dd179742b0996ea52f8c6b7, type: 2}
+  - {fileID: 11400000, guid: 3dd7fabc1d3e78c4ab341649f566a556, type: 2}
+  - {fileID: 11400000, guid: 92c69813728856c4b9cb9054c9d93e6f, type: 2}

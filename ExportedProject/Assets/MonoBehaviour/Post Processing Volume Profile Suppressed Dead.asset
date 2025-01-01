@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: Post Processing Volume Profile Suppressed Dead
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 3afe2d15c5aa54640a924ae8fec66b41, type: 2}
+  - {fileID: 11400000, guid: 7ede6d75ef7d7094890c2a259f828981, type: 2}
+  - {fileID: 11400000, guid: e01e473b913c3744885970fc5c99822a, type: 2}
+  - {fileID: 11400000, guid: 2a97af996b50b6442aaf12dfb61805ba, type: 2}
+  - {fileID: 11400000, guid: 340a65c3451d3e64f96cdadabbd56854, type: 2}
+  - {fileID: 11400000, guid: 20d413b5ea4443c43b03d8ac463d0367, type: 2}
+  - {fileID: 11400000, guid: 1909fb7ae84cc5a429e3939662390574, type: 2}

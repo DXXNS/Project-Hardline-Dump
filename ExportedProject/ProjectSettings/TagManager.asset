@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RagdollParts
+  - Stone
+  - Terrain
+  - Deformable
+  - PlayerCamera
+  - SpectatorCamera
+  - Wood
+  - Metal
+  - AmmoCrate
+  - ParticleEffect
+  - WorldButton
+  - KillBox
+  - ShatterableGlass
+  - Doors
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Character
+  - Hitbox
+  - PhysicsParticle
+  - Reticle
+  - Barrier
+  - Post Processing
+  - Player
+  - Grenade
+  - Interactable
+  - ScopeOnly
+  - ThermalImage
+  - ThermalHide
+  - PlayerItem
+  - Projectile
+  - Particles
+  - Audio
+  - KillBox
+  - Doors
+  - NoPlayerCollide
+  - SpecialRaycast
+  - SpectatorPostProcess
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

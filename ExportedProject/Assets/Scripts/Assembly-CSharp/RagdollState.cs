@@ -1,0 +1,7 @@
+public enum RagdollState
+{
+	FOLLOWING_ANIMATION = 0,
+	LOOSING_STRENGTH = 1,
+	GAINING_STRENGTH = 2,
+	DEAD = 3
+}
