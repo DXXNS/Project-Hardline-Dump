@@ -1,2 +1,12 @@
 # Project Hardline Dump
- Project Hardline dump
+
+## Last Dump
+**Date:** 01.01.2025  
+
+---
+
+## Game Info
+- **Build ID:** 26831905  
+- **Size:** Massive  
+
+---
